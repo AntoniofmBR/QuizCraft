@@ -2,7 +2,7 @@
 
 ![CookVerse_Wallpaper](./src/assets/png/wallpaper.png)
 
-Test your knowledge with this interactive and fun quiz application! Do you have everything for be the really genius?
+Test your knowledge with this interactive and fun quiz application! Do you have everything for be a genius?
 
 ## Features ✨  
 - **Dynamic Questions**: Fetches real-time questions.  
