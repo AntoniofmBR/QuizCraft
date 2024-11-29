@@ -31,7 +31,7 @@ export function Feedback({ score, totalQuestions }: FeedbackProps) {
     description = 'A good start! Explore more and be surprised. 🔍🌈'
   } else if (percentage <= 24) {
     rank = "Beginner"
-    description = 'Ainda há muito para aprender! Persista no desafio. 🚀💪'
+    description = 'There is still a lot to learn! Persist in the challenge. 🚀💪'
   }
 
   function startNewQuiz() {
